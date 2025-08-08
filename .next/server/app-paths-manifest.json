@@ -1,0 +1,6 @@
+{
+  "/insecure/signup/page": "app/insecure/signup/page.js",
+  "/page": "app/page.js",
+  "/insecure/login/page": "app/insecure/login/page.js",
+  "/md5/signup/page": "app/md5/signup/page.js"
+}
